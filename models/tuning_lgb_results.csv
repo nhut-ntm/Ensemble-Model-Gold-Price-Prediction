@@ -1,0 +1,6 @@
+,params,eval_metric
+2,"{'objective': 'regression',  'num_leaves': 31, 'n_estimators': 400, 'min_data_in_leaf': 20, 'max_depth': 5, 'lookback_window': 31}",0.7271522682240306
+1,"{'objective': 'regression',  'num_leaves': 80, 'n_estimators': 300, 'min_data_in_leaf': 50, 'max_depth': 5, 'lookback_window': 31}",0.7333923607978792
+3,"{'objective': 'regression',  'num_leaves': 63, 'n_estimators': 600, 'min_data_in_leaf': 50, 'max_depth': 7, 'lookback_window': 31}",0.7400392671501705
+0,"{'objective': 'regression',  'num_leaves': 31, 'n_estimators': 600, 'min_data_in_leaf': 20, 'max_depth': 7, 'lookback_window': 31}",0.7504059691598381
+4,"{'objective': 'regression',  'num_leaves': 80, 'n_estimators': 600, 'min_data_in_leaf': 100, 'max_depth': 5, 'lookback_window': 31}",0.7807312109079497
